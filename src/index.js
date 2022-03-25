@@ -190,7 +190,7 @@ export default class ParallaxCard extends React.Component {
                 transition: 'all 0.2s ease-out',
                 zIndex: '0',
                 boxShadow: this.state.isOnHover
-                  ? '0 45px 100px rgba(14, 21, 47, 0.4), 0 16px 40px rgba(14, 21, 47, 0.4)'
+                  ? '0 10px 20px rgba(14, 21, 47, 0.4), 0 16px 30px rgba(14, 21, 47, 0.4)'
                   : '0 8px 30px rgba(14, 21, 47, 0.6)'
               }}
             />

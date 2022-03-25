@@ -4,7 +4,7 @@
   "description": "Animated 3d card that reacts to the user&#x27;s mouse pointer",
   "author": "jamipuchi",
   "license": "MIT",
-  "repository": "jamipuchi/animated-3d-card",
+  "repository": "nation3/animated-3d-card",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
